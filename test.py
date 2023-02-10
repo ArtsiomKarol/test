@@ -2,7 +2,7 @@ def list()
 
 
 def delivery()
-
+    print('Указать точку доставки')
 
 def check()
 
