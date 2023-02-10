@@ -5,7 +5,7 @@ def delivery()
 
 
 def check()
-
+    print('Подтвердить заказ')
 
 def core()
     list()
