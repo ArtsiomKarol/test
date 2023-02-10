@@ -1,5 +1,5 @@
 def list()
-
+    print('Выбор заказа')
 
 def delivery()
 
